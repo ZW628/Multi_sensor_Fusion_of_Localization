@@ -28,12 +28,12 @@
 ![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/5_6.png)
 
 ## 闭环修正：
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.1.png)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.2.png)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.3.png)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.4.png)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.5.png)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.6.png)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.1.PNG)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.2.PNG)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.3.PNG)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.4.PNG)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.5.PNG)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.6.PNG)
 ![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.7.png)
 ![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.8.png)
 ![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/11.9.png)
