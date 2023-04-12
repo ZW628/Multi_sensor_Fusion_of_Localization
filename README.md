@@ -16,8 +16,8 @@
 
 ## 前端里程计之初试：
 ![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/4.1.jpg)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/4.2.jpg)
-![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/4.3.jpg)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/4.2.png)
+![image](https://github.com/ZW628/Multi_sensor_Fusion_of_Localization/blob/main/4.3.png)
 
 ## 前端里程计之代码优化：
 
